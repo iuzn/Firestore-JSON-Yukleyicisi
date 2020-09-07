@@ -1,0 +1,70 @@
+
+[
+  {
+    "belgeID":"Kullanıcı-1",
+    "user":"İbrahim Uzun",
+    "rank": "2",
+    "skills":[
+      {
+        "skill": "Javascript",
+        "level": "intermediate"
+      },
+      {
+        "skill": "React JS",
+        "level": "intermediate"
+      },
+      {
+        "skill": "Dart",
+        "level": "intermediate"
+      },
+      {
+        "skill": "Google Flutter",
+        "level": "intermediate"
+      },
+      {
+        "skill": "HTML",
+        "level": "advenced"
+      },
+      {
+        "skill": "CSS",
+        "level": "advenced"
+      },
+      {
+        "skill": "Figma",
+        "level": "advenced"
+      },
+      {
+        "skill": "Adobe After Effects",
+        "level": "advenced"
+      },
+      {
+        "skill": "Adobe Premiere Pro",
+        "level": "advenced"
+      },
+      {
+        "skill": "Adobe Photoshop",
+        "level": "intermediate"
+      },
+      {
+        "skill": "Adobe Illustrator",
+        "level": "intermediate"
+      }
+
+    ]
+  },
+  {
+    "belgeID":"Kullanıcı-2",
+    "user":"İbrahim Uzun",
+    "rank": 1,
+    "skills":[
+      {
+        "skill": "Assembly language",
+        "level": "Pro"
+      },
+      {
+        "skill": "Bisiklet Sürmek",
+        "level": "Begineer"
+      }
+    ]
+  }
+]
