@@ -1,14 +1,14 @@
-#Firestore JSON Yükleyicisi
+##Firestore JSON Yükleyicisi
 ###### JSON dosyalarını Cloud Firestore'a yükleme aracı.
 
-## Özellikler
+### Özellikler
 
 - Birden fazla JSON dosyasını Firebase'e yükleme
 - Gömülü dizelere sahip JSON dosyalarını yükleyebilme
 - Koleksiyon anahtarı oluşturma
 - Belge anahtarı oluşturma
 
-## KURULUM
+### KURULUM
 
 > Node paketlerini kurarak projeyi ayağa kaldırın. 
 ```sh
