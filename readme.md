@@ -14,7 +14,7 @@
 ```sh
  npm install
 ```
-**1.Adım**: **yukleyici.js** dosyasındaki databaseURL kısmına Firestore "**Settings/Hizmet Hesapları**" panelinde yer Admin SDK yapılandırma snippet'ındaki **databaseURL**'i yazın.
+**1.Adım**: **yukleyici.js** dosyasındaki databaseURL kısmına Firestore "**Settings/Hizmet Hesapları**" panelinde yer alan Admin SDK yapılandırma snippet'ındaki **databaseURL**'i yazın.
 
 ![GitHub Logo](./ekran_resimleri/1.png)
 
