@@ -25,7 +25,7 @@
 
 **3.Adım:** gelen bildirimdeki "**Anahtar oluştur**" butonuna tıkalyın ve .json uzantılı dosyayı proje dizine kopyalayın. Proje dizinine eklediğiniz dosyayı "**hizmet-anahtari.json**" olarak adlandırın.
 
-**4.Adım:** Frestore'a göndermek istediğiniz herhangi bir JSON dosyasını dosyalar dizininde bulunan "**ornek.json**" dosyası referans alarak düzenleyin. Daha sonra JSON dosyalarınızı "**dosyalar**" klasörüne kopyalayın ve "ornek.json" dosyasını silin.
+**4.Adım:** Firestore'a göndermek istediğiniz herhangi bir JSON dosyasını dosyalar dizininde bulunan "**ornek.json**" dosyası referans alarak düzenleyin. Daha sonra JSON dosyalarınızı "**dosyalar**" klasörüne kopyalayın ve "ornek.json" dosyasını silin.
 
 * _**Artık uçuşa geçebilirsiniz:**_
 
