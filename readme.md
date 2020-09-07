@@ -23,7 +23,7 @@
 
 ![GitHub Logo](./ekran_resimleri/2.png)
 
-**3.Adım:** gelen bildirimdeki "**Anahtar oluştur**" butonuna tıkalyın ve .json uzantılı dosyayı proje dizine kopyalayın. Proje dizinde eklediğiniz dosyayı "**hizmet-anahtari.json**" olarak adlandırın.
+**3.Adım:** gelen bildirimdeki "**Anahtar oluştur**" butonuna tıkalyın ve .json uzantılı dosyayı proje dizine kopyalayın. Proje dizinine eklediğiniz dosyayı "**hizmet-anahtari.json**" olarak adlandırın.
 
 **4.Adım:** Frestore'a göndermek istediğiniz herhangi bir JSON dosyasını dosyalar dizininde bulunan "**ornek.json**" dosyası referans alarak düzenleyin. Daha sonra JSON dosyalarınızı "**dosyalar**" klasörüne kopyalayın ve "ornek.json" dosyasını silin.
 
