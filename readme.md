@@ -28,6 +28,17 @@
 
 **4.Adım:** Firestore'a göndermek istediğiniz herhangi bir JSON dosyasını dosyalar dizininde bulunan "**ornek.json**" dosyası referans alarak düzenleyin. Daha sonra JSON dosyalarınızı "**dosyalar**" klasörüne kopyalayın ve "ornek.json" dosyasını silin.
 
+**5.Adım:** yukleyici.js dosyasını içinde yer alan yönergelere göre kişiselleştirin.
+
+**5.1:** ``databaseURL`` kısmına Firestore "Settings/Hizmet Hesapları" panelinde yer Admin SDK yapılandırma snippet'ındaki databaseURL'i yazın
+```js
+databaseURL: "https://uygulamaadi.firebaseio.com"
+```
+**5.2:** JSON formatındaki dosyalarınızı ``./dosyalar`` klasörü altında barındırın
+```js
+var menu = require("./dosyalar/" + file);
+```
+
 * _**Artık uçuşa geçebilirsiniz:**_
 
 ```sh
