@@ -20,7 +20,7 @@ fs.readdir(directoryPath, function(err, dosyalar) {
 
   dosyalar.forEach(function(file) {
     var lastDotIndex = file.lastIndexOf(".");
-// JSON formatındaki dosyalrınızı "dosyalar" klasörü altında barındırın
+// JSON formatındaki dosyalarınızı "dosyalar" klasörü altında barındırın
     var menu = require("./dosyalar/" + file);
 
     menu.forEach(function(obj) {
